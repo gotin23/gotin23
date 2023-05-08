@@ -20,3 +20,4 @@
 </p>
 <h3 align="left">Extra:</h3>
 <a href="https://www.codewars.com/users/Gotin" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Gotin/badges/micro" alt="codewars"/></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gotin23&show_icons=true&locale=en" alt="gotin23" /></p>
