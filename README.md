@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Studing on [Openclassrooms](https://openclassrooms.com/)
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/gotin23?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/gotin23?tab=repositories)
 
 - 📫 How to reach me **Linkdu06@hotmail.com**
 
