@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Codewars:</h3>
-<a href="https://www.codewars.com/users/Gotin" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Gotin/badges/micro" alt="codewars"/></a>
+<a href="https://www.codewars.com/users/Gotin" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Gotin/badges/micro" alt="codewars" width='200px'/></a>
 <br>
 <br>
 <br>
