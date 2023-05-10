@@ -22,7 +22,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
 </p>
 <br>
-<h3 align="left">Extra:</h3>
+<h3 align="left">Codewars:</h3>
 <a href="https://www.codewars.com/users/Gotin" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Gotin/badges/micro" alt="codewars"/></a>
 <br>
 <br>
