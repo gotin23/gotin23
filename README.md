@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Linkdu06@hotmail.com**
 
-- 👨‍🎨 I'm loving travel specially in India 🇮🇳, mangas 🇯🇵,video games 🎮 and new technologies 💻
+- 👨‍🎨 I'm loving travel specially in India 🇮🇳, animes 🇯🇵,video games 🎮 and new technologies 💻
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
