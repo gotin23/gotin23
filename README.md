@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from France</h3>
 <br>
 
-- 🔭 I’m currently Studing on [Openclassrooms](https://openclassrooms.com/)
+- 🔭 I’m currently looking for a job
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/gotin23?tab=repositories)
 
